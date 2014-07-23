@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE classrom SYSTEM "classroom.dtd">
+<classrom id="c1">
+	<className>14bling</className>
+	<grade>2014</grade>
+	<students>
+		<student>
+			<id>1</id>
+			<stuName>bling</stuName>
+			<age>23</age>
+		</student>
+		<student>
+			<id>2</id>
+			<stuName>jun</stuName>
+			<age>20</age>
+		</student>
+	</students>
+</classrom>
